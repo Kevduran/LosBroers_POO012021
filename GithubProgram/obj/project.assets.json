@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kevin\\.nuget\\packages\\": {}
+    "C:\\Users\\javi6\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin\\Desktop\\Labo POO\\LosBroersPOO0121\\LosBroers_POO012021\\GithubProgram\\GithubProgram.csproj",
+      "projectUniqueName": "C:\\Users\\javi6\\OneDrive\\Escritorio\\PRACTICE\\LosBroers_POO012021\\GithubProgram\\GithubProgram.csproj",
       "projectName": "GithubProgram",
-      "projectPath": "C:\\Users\\kevin\\Desktop\\Labo POO\\LosBroersPOO0121\\LosBroers_POO012021\\GithubProgram\\GithubProgram.csproj",
-      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin\\Desktop\\Labo POO\\LosBroersPOO0121\\LosBroers_POO012021\\GithubProgram\\obj\\",
+      "projectPath": "C:\\Users\\javi6\\OneDrive\\Escritorio\\PRACTICE\\LosBroers_POO012021\\GithubProgram\\GithubProgram.csproj",
+      "packagesPath": "C:\\Users\\javi6\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\javi6\\OneDrive\\Escritorio\\PRACTICE\\LosBroers_POO012021\\GithubProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\javi6\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

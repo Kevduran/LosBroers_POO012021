@@ -13,15 +13,15 @@ namespace PracticaGib
 
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
-
-            Console.WriteLine($"adding {a} - {b} equals {AddNumbers(a, b)}");
+            //camcbio de signo a multiplicacion 
+            Console.WriteLine($"adding {a} * {b} equals {AddNumbers(a, b)}");
         }
 
         public static int AddNumbers(int a, int b)
         {
 
-            //Cambio de signo para retornar una resta
-            return a - b;
+            //Cambio de signo para retornar una multiplicacion
+            return a * b;
         }
     }
 }
