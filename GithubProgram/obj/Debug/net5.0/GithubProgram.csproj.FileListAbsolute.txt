@@ -1,0 +1,16 @@
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\bin\Debug\net5.0\GithubProgram.exe
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\bin\Debug\net5.0\GithubProgram.deps.json
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\bin\Debug\net5.0\GithubProgram.runtimeconfig.json
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\bin\Debug\net5.0\GithubProgram.runtimeconfig.dev.json
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\bin\Debug\net5.0\GithubProgram.dll
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\bin\Debug\net5.0\ref\GithubProgram.dll
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\bin\Debug\net5.0\GithubProgram.pdb
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\obj\Debug\net5.0\GithubProgram.csprojAssemblyReference.cache
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\obj\Debug\net5.0\GithubProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\obj\Debug\net5.0\GithubProgram.AssemblyInfoInputs.cache
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\obj\Debug\net5.0\GithubProgram.AssemblyInfo.cs
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\obj\Debug\net5.0\GithubProgram.csproj.CoreCompileInputs.cache
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\obj\Debug\net5.0\GithubProgram.dll
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\obj\Debug\net5.0\ref\GithubProgram.dll
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\obj\Debug\net5.0\GithubProgram.pdb
+C:\Users\javi6\OneDrive\Escritorio\PRACTICE\LosBroers_POO012021\GithubProgram\obj\Debug\net5.0\GithubProgram.genruntimeconfig.cache
