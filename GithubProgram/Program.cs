@@ -20,7 +20,7 @@ namespace PracticaGib
         public static int AddNumbers(int a, int b)
         {
 
-
+            //Cambio de signo para retornar una resta
             return a - b;
         }
     }
