@@ -14,14 +14,14 @@ namespace PracticaGib
             Console.WriteLine("Enter a value for b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"adding {a} + {b} equals {AddNumbers(a, b)}");
+            Console.WriteLine($"adding {a} - {b} equals {AddNumbers(a, b)}");
         }
 
         public static int AddNumbers(int a, int b)
         {
 
-
-            return a + b;
+            //Cambio de signo para retornar una resta
+            return a - b;
         }
     }
 }
